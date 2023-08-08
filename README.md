@@ -1,3 +1,7 @@
+
+<img width="343" alt="Snímek obrazovky 2023-08-08 v 15 58 01" src="https://github.com/BestWebPi3/TeslaApp/assets/117753723/21fb51ad-ca6e-4d98-8916-c5126851413f">
+
+
 # Expo Router Example
 
 Use [`expo-router`](https://expo.github.io/router) to build native navigation using files in the `app/` directory.
