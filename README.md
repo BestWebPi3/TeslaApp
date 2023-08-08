@@ -1,5 +1,5 @@
 
-<img width="321" alt="Snímek obrazovky 2023-08-08 v 16 48 52" src="https://github.com/BestWebPi3/TeslaApp/assets/117753723/62abd34b-013e-40ce-a7c9-42ab7cde0530">
+<img width="220" alt="Snímek obrazovky 2023-08-08 v 16 48 52" src="https://github.com/BestWebPi3/TeslaApp/assets/117753723/62abd34b-013e-40ce-a7c9-42ab7cde0530">
 
 
 # Start
