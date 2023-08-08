@@ -7,7 +7,9 @@ npm install
 npm start
 
 # Pages 
-Climate
+My model S
+   |
+   |-Climate
 
 
 # Expo Router Example
