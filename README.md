@@ -9,9 +9,6 @@ npm start
 # Pages 
 My model S
 
-   |
-   
-
    |-Climate
 
 
