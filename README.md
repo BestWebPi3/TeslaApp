@@ -11,7 +11,7 @@ npm start
 # Pages 
 My model S
 
-   |-Climate
+    |-Climate
 
 
 # Expo Router Example
