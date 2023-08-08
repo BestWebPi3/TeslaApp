@@ -3,6 +3,7 @@
 
 # Start
 npm install
+
 npm start
 
 # Expo Router Example
